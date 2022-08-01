@@ -1,1 +1,3 @@
-# PrairieFire2b.github.io
+<html>
+  <title>PrairieFire2b.github.io</title>
+</html>
