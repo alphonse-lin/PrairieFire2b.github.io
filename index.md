@@ -13,4 +13,4 @@
 
 ## Target
 - 👨‍💻 I'm developing: programming language, virtual machine
-- 📚 I'm writing: book about: not in my date plan
+- 📚 I'm writing: not in my date plan
