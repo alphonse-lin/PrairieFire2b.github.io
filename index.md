@@ -3,9 +3,9 @@
 
 ## About
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=PrairieFire2b&show_icons=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /> 
-<br/>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrairieFire2b&layout=compact&theme=buefy&hide_border=true" />
+|<img align="center" src="https://github-readme-stats.vercel.app/api?username=PrairieFire2b&show_icons=true&theme=buefy&hide_border=true" alt="Anurag's github stats" />|
+|<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrairieFire2b&layout=compact&theme=buefy&hide_border=true" />|
+| ------ | ------ |
 
 ### Me
 - 👋 Hi, I’m: PrairieFire2b
