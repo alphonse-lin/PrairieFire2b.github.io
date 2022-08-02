@@ -14,8 +14,8 @@
 - 👨‍🎓 I'm going to be: high school student
 - 📫 How to reach me: prairie-fire@outlook.com
 
-### Target
+### Targets
 - 👨‍💻 I'm developing: programming language, virtual machine
-- 📚 I'm writing: not in my date plan
+- 📚 I'm writing: [`interfaces`](interfaces/index.md)
 
 ------
