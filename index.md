@@ -1,5 +1,5 @@
 # PrairieFire2b.github.io
-<br/>
+------
 
 ## About
 
@@ -20,3 +20,5 @@
 ### Target
 - 👨‍💻 I'm developing: programming language, virtual machine
 - 📚 I'm writing: not in my date plan
+
+------
