@@ -3,6 +3,9 @@
 
 ## About
 
+- 📔 Hi: [`overview`](overview.md)
+- 💻 I'm working on: [`repositories`](repositories.md)
+
 ### Me
 - 👋 Hi, I’m: PrairieFire2b
 - 👀 I’m interested in: coding, eating, playing, sleeping, and touching fish
@@ -10,9 +13,6 @@
 - 💞️ I’m looking to collaborate on: not in my date plan
 - 👨‍🎓 I'm going to be: high school student
 - 📫 How to reach me: prairie-fire@outlook.com
-
-### Repositories
-- 💻 I'm working on: [`repositories`](repositories.md)
 
 ### Target
 - 👨‍💻 I'm developing: programming language, virtual machine
