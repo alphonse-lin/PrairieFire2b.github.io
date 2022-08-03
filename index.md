@@ -3,7 +3,7 @@
 
 ## About
 
-- 📔 (｡･∀･)ﾉﾞHi: [`overview`](overview.md)
+- 📔 (｡･∀･)ﾉﾞHey: [`overview`](overview.md)
 - 💻 I'm working on: [`repositories`](repositories.md)
 
 ### Me
