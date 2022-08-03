@@ -1,7 +1,5 @@
 ------
 
-# PrairieFire2b.github.io
-
 ## 关于
 
 - 📔 (｡･∀･)ﾉﾞ嗨: [`overview`](overview.md)
