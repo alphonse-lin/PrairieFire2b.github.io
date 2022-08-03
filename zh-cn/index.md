@@ -24,4 +24,4 @@
 #### 语言
   > [`en-us`](../index.md)
 
-  > [`zh-cn`](zh-cn/index.md)
+  > [`zh-cn`](index.md)
