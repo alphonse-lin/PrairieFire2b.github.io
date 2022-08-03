@@ -19,3 +19,8 @@
 - 📚 I'm writing: [`interfaces`](interfaces/index.md)
 
 ------
+
+#### Languages
+  > [`en-us`](index.md)
+
+  > [`zh-cn`](zh-cn/index.md)
