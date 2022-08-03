@@ -3,11 +3,11 @@
 
 ## About
 
-- 📔 Hi: [`overview`](overview.md)
+- 📔 (｡･∀･)ﾉﾞHi: [`overview`](overview.md)
 - 💻 I'm working on: [`repositories`](repositories.md)
 
 ### Me
-- 👋 Hi, I’m: PrairieFire2b
+- 👋 I’m: PrairieFire2b
 - 👀 I’m interested in: coding, eating, playing, sleeping, and touching fish
 - 🌱 I’m currently learning: c, cpp, javascript, python, rust, typescript
 - 💞️ I’m looking to collaborate on: not in my date plan
